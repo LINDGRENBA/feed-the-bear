@@ -19,7 +19,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new Dotenv(),
     new HtmlWebpackPlugin({
-      title: 'npm-webpack-template',
+      title: 'feed-the-bear',
       template: './src/index.html',
       inject: 'body'
     })

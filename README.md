@@ -1,18 +1,18 @@
-# PROJEC NAME
+# Feed the Bear
 
-#### SHORT DESCRIPTION project for Epicodus, 00.00.0000
+#### An Asynchronous practice project for Epicodus, 06.28.2020
 
 ## By Brittany Lindgren
 
 ## Description
 
-ELEVATOR PITCH HERE
+A game wear you feed the bear so the bear doesn't eat you.
 
 ## Setup/Installation Requirements
 
 | Steps | Example |
 | -------- | ----- |
-| Follow this [link to the project repository](PUT LINK HERE) on GitHub.   |  [Link to the project repository](PUT LINK HERE)  |    
+| Follow this [link to the project repository](https://github.com/LINDGRENBA/feed-the-bear.git) on GitHub.   |  [Link to the project repository](https://github.com/LINDGRENBA/feed-the-bear.git)  |    
 | Click on the "Clone or download" button to copy the project link.   |   ![Image of GitHub Clone or download button](assets/images/readme/clone-download-button.PNG)   |   
 | If you are comfortable with the command line, you can copy the project link and clone it through your command line with the command `git clone`. Otherwise, I recommend choosing "**Download ZIP**".   |   ![Download ZIP option on GitHub](assets/images/readme/download-zip.PNG)  |   
 |  Once the ZIP file has finished downloading, you can right click on the file to view the zip folder in your downloads.   |   ![ZIP folder in downloads](assets/images/readme/zip-folder.PNG)  |   

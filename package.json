@@ -1,7 +1,7 @@
 {
-  "name": "npm-webpack-template",
+  "name": "feed-the-bear",
   "version": "1.0.0",
-  "description": "",
+  "description": "A game to practice asynchronous code",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode development",
